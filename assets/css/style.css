@@ -305,3 +305,13 @@ font-size: 40px;
   height: 100%;
   position: fixed;
 }
+
+.backhome {
+  position: absolute;
+  border: 2px solid #f47522;
+  border-radius: 30px;
+  padding: 10px 30px;
+  color: #19345e;
+  background-color: coral;
+  margin: 30px;
+}
